@@ -1,0 +1,6 @@
+// 4. Declare variables to store your first name, last name, marital status, country and age in a single line
+let firstName="Ajith Revildo", 
+lastName= "M" ,
+ Maritalstatus="Unmarried",
+ age=22,
+ country="India";
